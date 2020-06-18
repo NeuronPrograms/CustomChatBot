@@ -1,2 +1,2 @@
-# tutorials
- This repo contains naive projects to help new programmers start thier journey
+# Chatbot
+This is a naive implementation of a web chat bot using PHP ,and pure javascript.
